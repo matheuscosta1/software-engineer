@@ -13822,9 +13822,9 @@
 													"lineColor": "#800000",
 													"fillColor": "#ffffb9",
 													"font": "Arial;13;0",
-													"left": 75.97900390625,
+													"left": 71.58642578125,
 													"top": 10,
-													"width": 191.01708984375,
+													"width": 175.0400390625,
 													"height": 13,
 													"text": "UC03 - Buscar Histórico Pedidos"
 												},
@@ -13839,7 +13839,7 @@
 													"font": "Arial;13;1",
 													"left": 10,
 													"top": 10,
-													"width": 60.97900390625,
+													"width": 56.58642578125,
 													"height": 13,
 													"text": "interaction"
 												}
@@ -14757,9 +14757,9 @@
 													"lineColor": "#800000",
 													"fillColor": "#ffffb9",
 													"font": "Arial;13;0",
-													"left": 150.97900390625,
+													"left": 146.58642578125,
 													"top": 5,
-													"width": 160.68798828125,
+													"width": 145.41552734375,
 													"height": 13,
 													"text": "UC04 - Cadastro de Cliente"
 												},
@@ -14774,7 +14774,7 @@
 													"font": "Arial;13;1",
 													"left": 85,
 													"top": 5,
-													"width": 60.97900390625,
+													"width": 56.58642578125,
 													"height": 13,
 													"text": "interaction"
 												}
@@ -15694,9 +15694,9 @@
 													},
 													"fillColor": "#ffffb9",
 													"font": "Arial;13;0",
-													"left": 70.97900390625,
+													"left": 66.58642578125,
 													"top": 5,
-													"width": 142.6162109375,
+													"width": 129.90185546875,
 													"height": 13,
 													"text": "UC05 - Registrar Pedido"
 												},
@@ -15710,7 +15710,7 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 5,
-													"width": 60.97900390625,
+													"width": 56.58642578125,
 													"height": 13,
 													"text": "interaction"
 												}
@@ -31237,9 +31237,9 @@
 															"lineColor": "#800000",
 															"fillColor": "#ffffb9",
 															"font": "Arial;13;0",
-															"left": 134.97900390625,
+															"left": 130.58642578125,
 															"top": 5,
-															"width": 178.00439453125,
+															"width": 163.44921875,
 															"height": 13,
 															"text": "UC07 - Efetuar Ordem Serviço"
 														},
@@ -31254,7 +31254,7 @@
 															"font": "Arial;13;1",
 															"left": 69,
 															"top": 5,
-															"width": 60.97900390625,
+															"width": 56.58642578125,
 															"height": 13,
 															"text": "interaction"
 														}
@@ -33861,9 +33861,9 @@
 															"lineColor": "#800000",
 															"fillColor": "#ffffb9",
 															"font": "Arial;13;0",
-															"left": 94.97900390625,
+															"left": 90.58642578125,
 															"top": 5,
-															"width": 172.27880859375,
+															"width": 156.23828125,
 															"height": 13,
 															"text": "UC08 - Efetuar Pedido Venda"
 														},
@@ -33878,7 +33878,7 @@
 															"font": "Arial;13;1",
 															"left": 29,
 															"top": 5,
-															"width": 60.97900390625,
+															"width": 56.58642578125,
 															"height": 13,
 															"text": "interaction"
 														}
@@ -33914,7 +33914,7 @@
 															"font": "Arial;13;0",
 															"left": 123,
 															"top": 245,
-															"width": 42.9072265625,
+															"width": 39.263671875,
 															"height": 13,
 															"text": "Repetir"
 														},
@@ -36789,9 +36789,9 @@
 															"lineColor": "#800000",
 															"fillColor": "#ffffb9",
 															"font": "Arial;13;0",
-															"left": 70.97900390625,
+															"left": 66.58642578125,
 															"top": 5,
-															"width": 176.55078125,
+															"width": 160.5673828125,
 															"height": 13,
 															"text": "UC09 - Fechar Ordem Serviço"
 														},
@@ -36806,7 +36806,7 @@
 															"font": "Arial;13;1",
 															"left": 5,
 															"top": 5,
-															"width": 60.97900390625,
+															"width": 56.58642578125,
 															"height": 13,
 															"text": "interaction"
 														}
@@ -38965,9 +38965,9 @@
 															"lineColor": "#800000",
 															"fillColor": "#ffffb9",
 															"font": "Arial;13;0",
-															"left": 70.97900390625,
+															"left": 66.58642578125,
 															"top": 5,
-															"width": 185.970703125,
+															"width": 169.23193359375,
 															"height": 13,
 															"text": "UC14 - Gerar Relatório Estoque"
 														},
@@ -38982,7 +38982,7 @@
 															"font": "Arial;13;1",
 															"left": 5,
 															"top": 5,
-															"width": 60.97900390625,
+															"width": 56.58642578125,
 															"height": 13,
 															"text": "interaction"
 														}
@@ -40965,9 +40965,9 @@
 															"lineColor": "#800000",
 															"fillColor": "#ffffb9",
 															"font": "Arial;13;0",
-															"left": 70.97900390625,
+															"left": 66.58642578125,
 															"top": 5,
-															"width": 198.96435546875,
+															"width": 182.94287109375,
 															"height": 13,
 															"text": "UC15 - Gerar Relatório Financeiro"
 														},
@@ -40982,7 +40982,7 @@
 															"font": "Arial;13;1",
 															"left": 5,
 															"top": 5,
-															"width": 60.97900390625,
+															"width": 56.58642578125,
 															"height": 13,
 															"text": "interaction"
 														}
@@ -44047,115 +44047,114 @@
 										},
 										{
 											"_type": "UMLSeqMessageView",
-											"_id": "AAAAAAF05nYPZo6ZeZI=",
+											"_id": "AAAAAAF05npxhdM6t3o=",
 											"_parent": {
 												"$ref": "AAAAAAF05mspYozxsp4="
 											},
 											"model": {
-												"$ref": "AAAAAAF05nYPZo6YHE4="
+												"$ref": "AAAAAAF05npxhdM51Bs="
 											},
 											"subViews": [
 												{
 													"_type": "EdgeLabelView",
-													"_id": "AAAAAAF05nYPZo6atfU=",
+													"_id": "AAAAAAF05npxhdM7cbE=",
 													"_parent": {
-														"$ref": "AAAAAAF05nYPZo6ZeZI="
+														"$ref": "AAAAAAF05npxhdM6t3o="
 													},
 													"model": {
-														"$ref": "AAAAAAF05nYPZo6YHE4="
+														"$ref": "AAAAAAF05npxhdM51Bs="
 													},
-													"fillColor": "#dc0d0d",
 													"font": "Arial;13;0",
-													"left": 328,
-													"top": 323,
+													"left": 144,
+													"top": 332,
 													"width": 251.46240234375,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
 													"hostEdge": {
-														"$ref": "AAAAAAF05nYPZo6ZeZI="
+														"$ref": "AAAAAAF05npxhdM6t3o="
 													},
 													"edgePosition": 1,
 													"text": "5 : calculaTempoDistancia(distanciaPedido)"
 												},
 												{
 													"_type": "EdgeLabelView",
-													"_id": "AAAAAAF05nYPZo6bnHk=",
+													"_id": "AAAAAAF05npxhdM8zNs=",
 													"_parent": {
-														"$ref": "AAAAAAF05nYPZo6ZeZI="
+														"$ref": "AAAAAAF05npxhdM6t3o="
 													},
 													"model": {
-														"$ref": "AAAAAAF05nYPZo6YHE4="
+														"$ref": "AAAAAAF05npxhdM51Bs="
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 468,
-													"top": 323,
+													"left": 269,
+													"top": 347,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
 													"hostEdge": {
-														"$ref": "AAAAAAF05nYPZo6ZeZI="
+														"$ref": "AAAAAAF05npxhdM6t3o="
 													},
 													"edgePosition": 1
 												},
 												{
 													"_type": "EdgeLabelView",
-													"_id": "AAAAAAF05nYPZo6cGLU=",
+													"_id": "AAAAAAF05npxhdM9W+o=",
 													"_parent": {
-														"$ref": "AAAAAAF05nYPZo6ZeZI="
+														"$ref": "AAAAAAF05npxhdM6t3o="
 													},
 													"model": {
-														"$ref": "AAAAAAF05nYPZo6YHE4="
+														"$ref": "AAAAAAF05npxhdM51Bs="
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 434,
-													"top": 324,
+													"left": 270,
+													"top": 312,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
 													"hostEdge": {
-														"$ref": "AAAAAAF05nYPZo6ZeZI="
+														"$ref": "AAAAAAF05npxhdM6t3o="
 													},
 													"edgePosition": 1
 												},
 												{
 													"_type": "UMLActivationView",
-													"_id": "AAAAAAF05nYPZ46df5A=",
+													"_id": "AAAAAAF05npxhdM+M8s=",
 													"_parent": {
-														"$ref": "AAAAAAF05nYPZo6ZeZI="
+														"$ref": "AAAAAAF05npxhdM6t3o="
 													},
 													"model": {
-														"$ref": "AAAAAAF05nYPZo6YHE4="
+														"$ref": "AAAAAAF05npxhdM51Bs="
 													},
 													"fillColor": "#ffff00",
 													"font": "Arial;13;0",
-													"left": 407,
-													"top": 340,
+													"left": 114,
+													"top": 328,
 													"width": 14,
 													"height": 29
 												}
 											],
 											"font": "Arial;13;0",
 											"head": {
-												"$ref": "AAAAAAF05m9sL437yVY="
+												"$ref": "AAAAAAF05m3gGI3WZVg="
 											},
 											"tail": {
 												"$ref": "AAAAAAF05m9sL437yVY="
 											},
-											"points": "414:320;444:320;444:340;420:340",
+											"points": "414:328;127:328",
 											"nameLabel": {
-												"$ref": "AAAAAAF05nYPZo6atfU="
+												"$ref": "AAAAAAF05npxhdM7cbE="
 											},
 											"stereotypeLabel": {
-												"$ref": "AAAAAAF05nYPZo6bnHk="
+												"$ref": "AAAAAAF05npxhdM8zNs="
 											},
 											"propertyLabel": {
-												"$ref": "AAAAAAF05nYPZo6cGLU="
+												"$ref": "AAAAAAF05npxhdM9W+o="
 											},
 											"activation": {
-												"$ref": "AAAAAAF05nYPZ46df5A="
+												"$ref": "AAAAAAF05npxhdM+M8s="
 											}
 										}
 									]
@@ -44224,7 +44223,7 @@
 								},
 								{
 									"_type": "UMLMessage",
-									"_id": "AAAAAAF05nYPZo6YHE4=",
+									"_id": "AAAAAAF05npxhdM51Bs=",
 									"_parent": {
 										"$ref": "AAAAAAF05mspYozw0Mk="
 									},
@@ -44233,7 +44232,7 @@
 										"$ref": "AAAAAAF05m9sL430PZc="
 									},
 									"target": {
-										"$ref": "AAAAAAF05m9sL430PZc="
+										"$ref": "AAAAAAF05m3gGI3P09Y="
 									},
 									"arguments": "distanciaPedido"
 								}
